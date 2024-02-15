@@ -57,3 +57,39 @@
 ### Insights from 'Rainfall' Regression Analysis:
 - The analysis of 'Rainfall' aims to understand how well the model captures the variations in rainfall based on the selected features.
 - Interpretation of the actual vs. predicted plots provides insights into the model's performance in predicting 'Rainfall'.
+- 
+
+## Tableau Analysis:
+
+1. **Rainfall Distribution:**
+   - Utilized a Bar Plot to assess the frequency of rainfall occurrences, providing insights into the distribution of rainfall counts.
+     ![image](https://github.com/Vinod-Ghanchi/Project-2---Weather-Analysis/assets/80514865/eb0c6137-30e8-40ff-9d9a-ca604722d339)
+
+
+2. **Temperature Distribution:**
+   - Employed a Bar Plot to examine both the count of Minimum and Maximum Temperatures, presented side by side for easy comparison.
+     ![image](https://github.com/Vinod-Ghanchi/Project-2---Weather-Analysis/assets/80514865/6cdad236-9f6e-4e33-8886-2058e4873715)
+
+
+3. **Windspeed In Different Directions:**
+   - Developed a TreeMap to visualize the average Wind Speed at 3 pm and a Pie Chart for the average Wind Speed at 9 am across various directions.
+     ![image](https://github.com/Vinod-Ghanchi/Project-2---Weather-Analysis/assets/80514865/c823410d-8e7b-4242-b6da-496191d4c9dc)
+
+
+4. **Rain Status V/S Sunshine and Evaporation:**
+   - Constructed a Bar Chart to explore the relationship between rain status, sunshine, and evaporation, offering a comprehensive view of their interplay.
+     ![image](https://github.com/Vinod-Ghanchi/Project-2---Weather-Analysis/assets/80514865/38d51329-4e36-476d-9aac-523e72d4051a)
+
+
+5. **Sunshine V/S Cloudiness:**
+   - Created a Line Chart to compare Sunshine and Cloudiness at 9 am and 3 pm, facilitating an analysis of their trends and variations.
+     ![image](https://github.com/Vinod-Ghanchi/Project-2---Weather-Analysis/assets/80514865/05b83f63-ab08-4a16-9be8-85b8f7f6c04c)
+
+
+6. **Rainfall V/S Temperature:**
+   - Implemented a Line Chart to illustrate the correlation between Rainfall and both Minimum and Maximum Temperatures, aiding in understanding temperature variations concerning rainfall.
+     ![image](https://github.com/Vinod-Ghanchi/Project-2---Weather-Analysis/assets/80514865/2e2f9986-4c0a-4c1e-a504-0dac531b5641)
+
+
+This Tableau analysis involves a diverse set of visualizations, each tailored to provide meaningful insights into specific aspects of the dataset, enhancing the overall understanding of weather patterns and relationships.
+
